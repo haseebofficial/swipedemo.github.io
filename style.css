@@ -1,0 +1,299 @@
+/* button 1 */
+.btn1 a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.btn1 a span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn1 a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(224, 64, 64);
+  transition: all 0.35s;
+}
+
+.btn1 a:hover {
+  color: #fff;
+}
+
+.btn1 a:hover:after {
+  width: 100%;
+}
+/* button 1 end */
+
+/* button 2 */
+.btn2 a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.btn2 a span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn2 a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(50, 189, 50);
+  transition: all 0.35s;
+}
+
+.btn2 a:hover {
+  color: #fff;
+}
+
+.btn2 a:hover:after {
+  width: 100%;
+}
+
+/* button 2 end */
+
+/* button 3 */
+.btn3 a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.btn3 a span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn3 a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(216, 216, 28);
+  transition: all 0.35s;
+}
+
+.btn3 a:hover {
+  color: #fff;
+}
+
+.btn3 a:hover:after {
+  width: 100%;
+}
+
+/* button 3 end */
+
+/* button 4 */
+.btn4 a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.btn4 a span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn4 a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(218, 150, 161);
+  transition: all 0.35s;
+}
+
+.btn4 a:hover {
+  color: #fff;
+}
+
+.btn4 a:hover:after {
+  width: 100%;
+}
+
+/* button 4 end */
+
+/* button 5 */
+.btn5 a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.btn5 a span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn5 a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(194, 142, 46);
+  transition: all 0.35s;
+}
+
+.btn5 a:hover {
+  color: #fff;
+}
+
+.btn5 a:hover:after {
+  width: 100%;
+}
+
+/* button 5 end */
+
+/* button 6 */
+.btn6 a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.btn6 a span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn6 a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(58, 50, 50);
+  transition: all 0.35s;
+}
+
+.btn6 a:hover {
+  color: #fff;
+}
+
+.btn6 a:hover:after {
+  width: 100%;
+}
+
+/* button 6 end */
+
+/* button 7 */
+.btn7 a {
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+.btn7 a span {
+  position: relative;
+  z-index: 2;
+}
+
+.btn7 a:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: rgb(51, 165, 51);
+  transition: all 0.35s;
+}
+
+.btn7 a:hover {
+  color: #fff;
+}
+
+.btn7 a:hover:after {
+  width: 100%;
+}
+
+/* button 7 end */
